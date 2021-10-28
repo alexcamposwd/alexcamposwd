@@ -1,22 +1,28 @@
-<h3>"Hello World!"</h3>
+<h3>"Olá Mundo!"</h3>
 
-My name is Alex Campos from São Paulo (Brazil). Today I consider myself a *"Web Developer"* in development. 
+Meu nome é Alex Campos e sou de Taubaté / S.P.(Brasil). Hoje me considero um "Desenvolvedor Web" em desenvolvimento. 
 
-My first contact with programming was in 1998 in a Data Processing technical course, there I saw some Visual Basic and Delphi. But for various reasons, my life changed paths and for 20 years I stayed away from programming. 
+Meu primeiro contato com programação foi em 1998 no curso técnico de Processamento de Dados, lá vi um pouco de Visual Basic e Delphi. Mas, por vários motivos, minha vida mudou de rumo e por 20 anos me afastei da programação.
 
-Now in 2021 I restart my programming journey. :rocket:
+Agora em 2020 eu reinicio minha jornada de programação. :rocket:
 
-Today my focus is on fixing and perfecting the base (HTML, CSS and Javascript), initially this will be the main content of my projects on Github. 
+Hoje meu foco é apreender novas tecnologias e aperfeiçoar mais os conhecimentos adquiridos.
 
-Skills:
+Habilidades:
 
 + HTML
 + CCS
 + Javascript
 + SASS
++ Bootstrap / Spectre 
++ Vue.js (Vuex, Vuetify, Axios, Vue-Router)
++ Node.js (Express, Handlebars, Router, Mongoose, 
++ MongoDB
++ Webpack
++ Consumo de API's
 + Git
 
-#I am open to developing knowledge and helping with whatever I can.
+#Estou disposto para desenvolver conhecimento e ajudar no que puder..
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
