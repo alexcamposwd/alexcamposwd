@@ -16,9 +16,10 @@ Habilidades:
 + SASS
 + Bootstrap / Spectre 
 + Vue.js (Vuex, Vuetify, Axios, Vue-Router)
-+ Node.js (Express, Handlebars, Router, Mongoose, 
-+ MongoDB
++ Node.js (Express, Handlebars, Router)
++ MongoDB (Mongoose)
 + Webpack
++ Deploy Netlify, Heroku, Atlas
 + Consumo de API's
 + Git
 
