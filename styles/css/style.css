@@ -354,7 +354,7 @@ section .title::after {
   padding: 25px 25px;
   text-align: center;
   transition: all 0.3s ease;
-  height: 350px;
+  height: 380px;
 }
 
 .portfolio .carousel .card:hover {
@@ -461,7 +461,7 @@ section .title::after {
 .social-port .sci-port li a img {
   width: 40px;
   margin-right: 25px;
-  filter: invert(23%) sepia(78%) saturate(464%) hue-rotate(100deg) brightness(98%) contrast(98%);
+  filter: invert(0%) sepia(4%) saturate(297%) hue-rotate(67deg) brightness(107%) contrast(102%);
 }
 
 .social-port .sci-port li span {
@@ -542,7 +542,14 @@ section .title::after {
 
 .contact .contact-content .left .social-contact .sci li a img {
   width: 50px;
-  filter: invert(23%) sepia(78%) saturate(464%) hue-rotate(100deg) brightness(98%) contrast(98%);
+}
+
+#contact > div > div > div.column.left > div.social-contact > ul > li:nth-child(1) > a > img {
+  filter: invert(0%) sepia(4%) saturate(297%) hue-rotate(67deg) brightness(107%) contrast(102%);
+}
+
+#contact > div > div > div.column.left > div.social-contact > ul > li:nth-child(2) > a > img {
+  filter: invert(29%) sepia(51%) saturate(2867%) hue-rotate(178deg) brightness(92%) contrast(89%);
 }
 
 .contact .right form .fields {
