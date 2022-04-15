@@ -13,17 +13,19 @@ Habilidades:
 + HTML
 + CCS
 + Javascript
++ Typescript
 + SASS
-+ Bootstrap / Spectre 
 + Vue.js (Vuex, Vuetify, Axios, Vue-Router)
++ React.js (React-router, React-hooks)
 + Node.js (Express, Handlebars, Router)
++ Styled-Components
 + MongoDB (Mongoose)
 + Webpack
 + Deploy Netlify, Heroku, Atlas
 + Consumo de API's
 + Git
 
-#Estou disposto para desenvolver conhecimento e ajudar no que puder..
+#Estou disposto para desenvolver conhecimento e ajudar no que puder.
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
