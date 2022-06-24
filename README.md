@@ -20,7 +20,9 @@ Habilidades:
 + Node.js (Express, Handlebars, Router)
 + Styled-Components
 + MongoDB (Mongoose)
++ Docker e Docker-Compose
 + Webpack
++ Cypress
 + Deploy Netlify, Heroku, Atlas
 + Consumo de API's
 + Git
