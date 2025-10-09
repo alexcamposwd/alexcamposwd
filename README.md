@@ -1,50 +1,64 @@
-Meu nome é Alex Campos e sou de Taubaté / S.P.(Brasil). Hoje me considero um "Desenvolvedor Web" em desenvolvimento. 
+# Alex Campos - Cientista de Dados | Analista de Dados | Desenvolvedor
 
-Meu primeiro contato com programação foi em 1998 no curso técnico de Processamento de Dados, lá vi um pouco de Visual Basic e Delphi. Mas, por vários motivos, minha vida mudou de rumo e por 20 anos me afastei da programação.
+🌍 Taubaté, S.P. (Brasil) | 🎓 Graduando em Ciência de Dados
 
-Agora em 2020 eu reinicio minha jornada de programação. :rocket:
+## Sobre Mim
 
-Hoje meu foco é apreender novas tecnologias e aperfeiçoar mais os conhecimentos adquiridos.
+Profissional em transição de carreira, com sólida experiência em gestão de projetos e forte paixão por dados, machine learning e inteligência artificial. Minha jornada na tecnologia começou em 1998 com um curso técnico de Processamento de Dados, mas após um hiato de 20 anos, reiniciei minha trajetória em 2020.
 
-Habilidades:
+Atualmente, estou focado em desenvolver soluções inovadoras utilizando análise de dados, machine learning e técnicas de inteligência artificial para gerar insights estratégicos.
 
-+ HTML
-+ CCS
-+ Javascript
-+ Typescript
-+ SASS
-+ Vue.js (Vuex, Vuetify, Axios, Vue-Router)
-+ React.js (React-router, React-hooks)
-+ Node.js (Express, Handlebars, Router)
-+ Styled-Components
-+ MongoDB (Mongoose)
-+ Docker e Docker-Compose
-+ Webpack
-+ Cypress
-+ Deploy Netlify, Heroku, Atlas
-+ Consumo de API's
-+ Git
+## 🚀 Objetivos Profissionais
 
-#Estou disposto para desenvolver conhecimento e ajudar no que puder.
+- Aplicar técnicas avançadas de análise de dados
+- Desenvolver modelos de machine learning
+- Criar soluções de inteligência artificial
+- Transformar dados em insights acionáveis
+
+## 💻 Habilidades Técnicas
+
+### Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Bibliotecas e Ferramentas de Dados
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Bancos de Dados
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas de Desenvolvimento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## 📚 Formação Acadêmica
+
+- **Superior de Tecnologia em Ciência de Dados** 
+  Anhanguera Educacional, Taubaté - S.P.
+  Previsão de Conclusão: Junho de 2026
+
+## 🏆 Cursos Relevantes
+
+- Profissão Analista de Dados - EBAC
+- Formação Analista de Dados - Data Science Academy
+- Microsoft Power BI para Data Science
+- Estatística Descritiva com Python
+- SQL para Análise de Dados
+
+## 🌐 Conecte-se Comigo
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexcamposwd/)
+[<img src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:alexcamposwd@gmail.com)
+
+## 📊 Estatísticas do GitHub
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />](https://twitter.com/alexcamposwd1) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexcamposwd/) [<img src="https://img.shields.io/badge/gmail-alexcamposwd%09-blueviolet?&style=flat&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/1/alexcamposwd/) 
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.JS]( https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
-![styled--components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![NODE JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+#Estou sempre disposto a aprender e colaborar em projetos interessantes de Ciência de Dados!
