@@ -1,6 +1,6 @@
 # Alex Campos - Cientista de Dados | Analista de Dados | Desenvolvedor
 
-🌍 Taubaté, S.P. (Brasil) | 🎓 Graduando em Ciência de Dados
+🌍 Taubaté, S.P. (Brasil) | 🎓 Estudante de Ciência de Dados
 
 ## Sobre Mim
 
