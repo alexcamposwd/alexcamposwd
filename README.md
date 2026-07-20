@@ -1,48 +1,88 @@
-# Alex Campos - Cientista de Dados | Analista de Dados | Desenvolvedor
+# Alex Campos
 
-🌍 Taubaté, S.P. (Brasil) | 🎓 Estudante de Ciência de Dados
+## Cientista de Dados | Agricultura Digital 🌱
+
+📍 Brasil  
+🎓 Tecnólogo em Ciência de Dados
+
+---
 
 ## Sobre Mim
 
-Profissional em transição de carreira, com sólida experiência em gestão de projetos e forte paixão por dados, machine learning e inteligência artificial. Minha jornada na tecnologia começou em 1998 com um curso técnico de Processamento de Dados, mas após um hiato de 20 anos, reiniciei minha trajetória em 2020.
+Sou Cientista de Dados em formação, direcionando minha carreira
+para soluções aplicadas ao Agronegócio.
 
-Atualmente, estou focado em desenvolver soluções inovadoras utilizando análise de dados, machine learning e técnicas de inteligência artificial para gerar insights estratégicos.
+Minha especialização de interesse está na integração entre:
 
-## 🚀 Objetivos Profissionais
+- Ciência de Dados
+- Sensoriamento Remoto
+- Geoprocessamento
+- Agricultura de Precisão
+- Inteligência Artificial
 
-- Aplicar técnicas avançadas de análise de dados
-- Desenvolver modelos de machine learning
-- Criar soluções de inteligência artificial
-- Transformar dados em insights acionáveis
+Atualmente desenvolvo projetos utilizando dados agrícolas,
+imagens Sentinel-2 e Python para transformar dados geoespaciais
+em informações para tomada de decisão no campo.
 
-## 💻 Habilidades Técnicas
+---
 
-### Linguagens de Programação
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🚜 Área de Interesse
 
-### Bibliotecas e Ferramentas de Dados
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- Agricultura Digital
+- AgTech
+- Monitoramento agrícola
+- Análise temporal de vegetação
+- Índices espectrais (NDVI)
+- Machine Learning aplicado ao Agro
 
-### Bancos de Dados
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### Ferramentas de Desenvolvimento
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+## 🛠️ Tecnologias
+
+### Dados
+Python
+SQL
+Pandas
+NumPy
+
+### Geoespacial
+QGIS
+GeoPandas
+Rasterio
+Sentinel-2
+
+### Machine Learning
+Scikit-learn
+Modelos preditivos
+
+### Visualização
+Power BI
+Matplotlib
+Streamlit
+
+---
+
+## Projetos
+
+🌱 Monitor Agro
+
+Pipeline geoespacial para processamento de imagens Sentinel-2,
+cálculo de índices de vegetação e análise temporal agrícola.
+
+Tecnologias:
+Python | Rasterio | GeoPandas | QGIS | NDVI
+
+
+📊 Projetos de Ciência de Dados
+
+Análises exploratórias,
+modelos preditivos e visualização de dados.
 
 ## 📚 Formação Acadêmica
 
 - **Superior de Tecnologia em Ciência de Dados** 
   Anhanguera Educacional, Taubaté - S.P.
-  Previsão de Conclusão: Junho de 2026
+  Conclusão: Junho de 2026
 
 ## 🏆 Cursos Relevantes
 
@@ -62,3 +102,6 @@ Atualmente, estou focado em desenvolver soluções inovadoras utilizando anális
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 #Estou sempre disposto a aprender e colaborar em projetos interessantes de Ciência de Dados!
+
+LinkedIn:
+[(seu link)](https://www.linkedin.com/in/alexcamposwd/)
